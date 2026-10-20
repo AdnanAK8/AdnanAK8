@@ -206,7 +206,7 @@ My goal is to continue strengthening my understanding of cloud architecture, app
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdnanAK8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAK8&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
----
+
 
 # 🤝 Let's Connect
 
