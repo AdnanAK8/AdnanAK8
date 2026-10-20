@@ -207,9 +207,7 @@ My goal is to continue strengthening my understanding of cloud architecture, app
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAK8&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdnanAK8&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdnanAK8&theme=tokyo-night&hide_border=true" width="98%" alt="GitHub contribution activity"/>
